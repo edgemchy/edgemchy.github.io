@@ -1,2 +1,1 @@
-# edgemchy.github.io
-edge-pages
+# EDT-Pages.github.io
